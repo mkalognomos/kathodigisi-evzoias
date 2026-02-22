@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Υπηρεσίες Εναλλακτικών Θεραπειών & Καθοδήγησης ατόμων με προβλήματα Υγείας | Under Construction</title>
+  <style>
+    :root{
+      /* Χρώματα από το λογότυπο */
+      --logo-purple: #d0a3c2;
+      --logo-green:  #47ae46;
+      --logo-gold:   #cdb549;
+      --text: #2b2b2b;
+      --muted: #666666;
+    }
+
+    *{box-sizing:border-box;margin:0;padding:0}
+
+    /* Grid layout: περιεχόμενο κέντρο + footer κολλημένο κάτω */
+    html, body{
+      height:100%;
+    }
+    body{
+     min-height:100dvh;
+  display:grid;
+  grid-template-rows: 1fr auto;
+  place-items:center;
+  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+  color:var(--text);
+  /* ΝΕΟ gradient background */
+  background: linear-gradient(160deg, #f4e6f0 0%, #e8f7e8 100%);
+  padding:24px;
+    }
+
+    main{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      text-align:center;
+      gap:20px;
+      max-width:920px;
+    }
+
+    /* Λογότυπο – λίγο μικρότερο, αλλά responsive */
+    .logo img{
+      width:min(280px,45vw);
+      height:auto;
+      display:block;
+      filter: drop-shadow(0 2px 10px rgba(0,0,0,.06));
+    }
+
+    /* Heading */
+    h1{
+      font-weight:800;
+      font-size:clamp(1.8rem, 3.2vw + 1rem, 3rem);
+      line-height:1.15;
+      letter-spacing:.02em;
+      font-variant: small-caps;
+    }
+    .h-purple{ color:var(--logo-purple); }
+    .h-green { color:var(--logo-green);  }
+
+    /* Επικοινωνία με icons */
+    .contact{
+      display:grid;
+      gap:10px;
+      margin-top:6px;
+    }
+    .row{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      gap:10px;
+      font-size:clamp(1rem, 1.2vw + .6rem, 1.15rem);
+    }
+    .icon{
+      width:18px;height:18px;flex:0 0 18px;display:inline-block;color:#111;
+    }
+    .muted{ color:var(--muted); }
+    a{ color:inherit; text-decoration:none; border-bottom:1px solid transparent; }
+    a:hover{ border-bottom-color:currentColor; }
+
+    footer{
+      width:100%;
+      text-align:center;
+      padding:10px 0 0;
+      font-size:.95rem;
+      color:var(--muted);
+    }
+    footer a{ color:var(--logo-green); font-weight:600; text-decoration:none; }
+    footer a:hover{ text-decoration:underline; }
+
+    /* — Προσαρμογή για χαμηλό ύψος οθόνης — */
+    @media (max-height: 650px){
+      .logo img{ width:min(240px,42vw); }
+      h1{ font-size:clamp(1.6rem, 2.6vw + .8rem, 2.4rem); }
+      .row{ font-size:clamp(.95rem, 1vw + .55rem, 1.05rem); }
+    }
+    @media (max-height: 540px){
+      .logo img{ width:min(220px,40vw); }
+      h1{ font-size:clamp(1.4rem, 2.2vw + .7rem, 2.1rem); }
+    }
+  </style>
+</head>
+<body>
+  <main aria-label="Under construction">
+    <div class="logo" aria-hidden="false">
+      <img src="logo.png" alt="Λογότυπο Pranic Healing" title="Καθοδήγηση Ευζωίας" />
+    </div>
+
+    <h1>
+      <span class="h-purple">κατι νεο</span>
+      <span class="h-green">ερχεται...</span>
+    </h1>
+
+    <div class="contact" aria-label="Άμεση επικοινωνία">
+      <div class="row">
+        <!-- pin -->
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7Zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5Z"/>
+        </svg>
+        <span class="muted">Ηλέκτρας 67-69, Καλλιθέα - Τ.Κ. 176 75</span>
+      </div>
+
+      <div class="row">
+        <!-- mail -->
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5L4 8V6l8 5 8-5v2Z"/>
+        </svg>
+        <a href="mailto:info@example.com">info@kathodigisi-evzoias.gr</a>
+      </div>
+
+      <div class="row">
+        <!-- phone -->
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 .98-.26 11.5 11.5 0 0 0 3.62.58 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 8a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.24.2 2.46.58 3.62a1 1 0 0 1-.26.98L6.6 10.8Z"/>
+        </svg>
+        <a href="tel:+306982049669">698 204 9669</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    Powered by <a href="https://cosmodraw.com" target="_blank" rel="noopener">Cosmodraw</a>
+  </footer>
+</body>
+</html>
+
+
