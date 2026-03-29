@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-03-28T23:11:04+00:00</lastmod>
+		<lastmod>2026-03-29T12:04:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/02/Screenshot-2026-02-17-at-10.17.38-PM.png</image:loc>
 		</image:image>
@@ -87,8 +90,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/pranic-healing/</loc>
+		<lastmod>2026-03-29T00:33:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/kineziki-iatrikh/</loc>
-		<lastmod>2026-03-29T00:30:37+00:00</lastmod>
+		<lastmod>2026-03-29T11:59:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/leaf.png</image:loc>
 		</image:image>
@@ -103,8 +113,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/pranic-healing/</loc>
-		<lastmod>2026-03-29T00:33:59+00:00</lastmod>
+		<loc>/%ce%bf-%cf%87%cf%8e%cf%81%ce%bf%cf%82/</loc>
+		<lastmod>2026-03-29T12:05:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
 		</image:image>
