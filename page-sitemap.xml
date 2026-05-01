@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-03-30T09:26:15+00:00</lastmod>
+		<lastmod>2026-05-01T20:23:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
 		</image:image>
@@ -29,46 +29,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/ototherapeia/</loc>
-		<lastmod>2026-03-27T23:16:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/wellness-29.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/dialogismos/</loc>
-		<lastmod>2026-03-28T00:07:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contact/</loc>
-		<lastmod>2026-03-28T00:19:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/%ce%bc%ce%ac%ce%bb%ce%b1%ce%be%ce%b7/</loc>
-		<lastmod>2026-03-28T01:46:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/pexels.com_video_woman-doing-a-back-massage-6628400-cover14.jpg-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/%cf%8c%ce%bb%ce%b3%ce%b1-%ce%bf%ce%b9%ce%ba%ce%bf%ce%bd%ce%bf%ce%bc%ce%af%ce%b4%ce%b7/</loc>
 		<lastmod>2026-03-28T12:25:43+00:00</lastmod>
 		<image:image>
@@ -90,15 +50,28 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/pranic-healing/</loc>
-		<lastmod>2026-03-29T00:33:59+00:00</lastmod>
+		<loc>/ototherapeia/</loc>
+		<lastmod>2026-04-24T19:35:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/wellness-29.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/dialogismos/</loc>
+		<lastmod>2026-04-24T19:36:09+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/kineziki-iatrikh/</loc>
-		<lastmod>2026-03-29T11:59:04+00:00</lastmod>
+		<lastmod>2026-04-24T19:42:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/leaf.png</image:loc>
 		</image:image>
@@ -113,8 +86,35 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/contact/</loc>
+		<lastmod>2026-04-24T19:47:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/pranic-healing/</loc>
+		<lastmod>2026-05-01T20:40:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/%ce%bc%ce%ac%ce%bb%ce%b1%ce%be%ce%b7/</loc>
+		<lastmod>2026-05-01T20:43:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/pexels.com_video_woman-doing-a-back-massage-6628400-cover14.jpg-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/%ce%bf-%cf%87%cf%8e%cf%81%ce%bf%cf%82/</loc>
-		<lastmod>2026-03-30T09:31:46+00:00</lastmod>
+		<lastmod>2026-05-01T20:50:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
 		</image:image>
