@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-07-02T17:28:05+00:00</lastmod>
+		<lastmod>2026-07-06T14:19:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
 		</image:image>
@@ -15,6 +15,12 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/02/wellness-4b.png</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/instagram-logo-instagram-icon-transparent-free-png.png-2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/facebook-logo-facebook-icon-transparent-free-png.png.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/%cf%83%cf%84%ce%ad%cf%86%ce%b1%ce%bd%ce%bf%cf%82-%ce%b4%ce%b1%ce%bb%ce%b1%ce%b2%ce%bf%cf%8d%cf%81%ce%b1%cf%82/</loc>
@@ -26,13 +32,6 @@
 	<url>
 		<loc>/contact/</loc>
 		<lastmod>2026-05-01T23:13:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/%ce%bf-%cf%87%cf%8e%cf%81%ce%bf%cf%82/</loc>
-		<lastmod>2026-05-19T17:48:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/%ce%bc%ce%ac%ce%bb%ce%b1%ce%be%ce%b7/</loc>
@@ -55,22 +54,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/02/wellness-3b.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/ototherapeia/</loc>
-		<lastmod>2026-07-02T17:42:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/05/CVP_5601-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -101,17 +84,40 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/pranic-healing/</loc>
-		<lastmod>2026-07-02T17:55:45+00:00</lastmod>
+		<loc>/ototherapeia/</loc>
+		<lastmod>2026-07-06T13:10:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/d-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/03/cropped-image.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/coworking/</loc>
-		<lastmod>2026-07-02T18:17:32+00:00</lastmod>
+		<lastmod>2026-07-06T13:28:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/05/CVP_5352-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/05/CVP_5396-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/05/CVP_5816-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/05/CVP_5821-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/pranic-healing/</loc>
+		<lastmod>2026-07-06T13:41:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/%ce%bf-%cf%87%cf%8e%cf%81%ce%bf%cf%82/</loc>
+		<lastmod>2026-07-06T13:50:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/wellness-6.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
